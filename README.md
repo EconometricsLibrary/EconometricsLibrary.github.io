@@ -13,7 +13,7 @@ Texts under development (pre-alpha)
 Support or Contact
 ------------------
 
-We have a mailing list: <econometricslibrary@librelist.com>.  Please email the list if you have questions or error reports.  You can also file issues for each of the individual projects:
+We have a mailing list: <econometricslibrary@librelist.com>.  Please email the list if you have questions or error reports; the [Librelist homepage](http://librelist.com/) has more information about this process.  You can also file issues for each of the individual projects:
 * [Core Econometrics text issues](https://github.com/EconometricsLibrary/GraduateText/issues)
 * [Graduate Macroeconometrics text issues](https://github.com/EconometricsLibrary/MacroeconometricsText/issues)
 
