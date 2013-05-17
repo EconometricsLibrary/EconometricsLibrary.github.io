@@ -2,7 +2,7 @@ Webpage for the Econometrics Free Library
 =========================================
 
 
-The goal of this organization is to produce and maintain a set of up-to-date Econometrics texts suitable for graduate education, available for free under the GNU Free Documentation License.
+The goal of this organization is to produce and maintain a set of up-to-date Econometrics texts suitable for graduate education, available for free under the [GNU Free Documentation License](http://www.gnu.org/copyleft/fdl.html).
 
 Texts under development (pre-alpha)
 -----------------------------------
