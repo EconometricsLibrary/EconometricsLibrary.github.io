@@ -1,5 +1,5 @@
-Webpage for the Econometrics free library project
-=================================================
+Econometrics free library
+=========================
 
 
 The goal of this project is to produce and maintain up-to-date Econometrics texts suitable for graduate education and available for free under the [GNU Free Documentation License](http://www.gnu.org/copyleft/fdl.html).
