@@ -1,8 +1,8 @@
-Webpage for the Econometrics Free Library
-=========================================
+Webpage for the Econometrics free library project
+=================================================
 
 
-The goal of this organization is to produce and maintain a set of up-to-date Econometrics texts suitable for graduate education, available for free under the [GNU Free Documentation License](http://www.gnu.org/copyleft/fdl.html).
+The goal of this project is to produce and maintain up-to-date Econometrics texts suitable for graduate education and available for free under the [GNU Free Documentation License](http://www.gnu.org/copyleft/fdl.html).
 
 Texts under development (pre-alpha)
 -----------------------------------
@@ -13,7 +13,7 @@ Texts under development (pre-alpha)
 Support or Contact
 ------------------
 
-We have a mailing list: <econometricslibrary@librelist.com>.  Please email the list if you have questions or error reports; the [Librelist homepage](http://librelist.com/) has more information about this process.  You can also file issues for each of the individual projects:
+We have a mailing list: <econometricslibrary@librelist.com>.  Please email the list if you have questions or error reports; the [Librelist homepage](http://librelist.com/) has more information about this process; [list archives are available online as well](http://librelist.com/browser/econometricslibrary/).  You can also file issues for each of the individual projects:
 * [Core Econometrics text issues](https://github.com/EconometricsLibrary/GraduateText/issues)
 * [Graduate Macroeconometrics text issues](https://github.com/EconometricsLibrary/MacroeconometricsText/issues)
 
