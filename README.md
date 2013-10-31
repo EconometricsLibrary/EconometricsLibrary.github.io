@@ -22,4 +22,4 @@ Please subscribe to the mailing list if you'd like to contribute to this project
 Authors and Contributors
 ------------------------
 
-This project was started on April 29, 2013 by @gcalhoun; you can find more information on GitHub: @EconometricsLibrary.
+This project was started on April 29, 2013 by @grayclhn; you can find more information on GitHub: @EconometricsLibrary.
