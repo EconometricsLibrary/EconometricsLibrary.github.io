@@ -4,76 +4,39 @@ layout: default
 ---
 
 [FDL]: http://www.gnu.org/copyleft/fdl.html
+[git-core]: https://github.com/EconometricsLibrary/CoreEconometricsText
 
-Summary
--------
+The *Free Econometrics Library Project* aims to produce free and open
+access econometrics texts suitable for graduate education; all of the
+texts can be modified and redistributed under the
+[GNU Free Documentation License][FDL].
 
-The goal of this project is to produce and maintain free and open
-access econometrics texts suitable for graduate education. Everything
-will be available for free under the [GNU Free Documentation
-License][FDL], which means that you can download the LaTeX source code
-as well as pdfs of the texts and edit and redistribute them.  Please
-[read the license][FDL] first, though, because it applies to any
-copies that you redistribute as well.
+This project started in April, 2013, and we are writing its first
+book, a textbook for the first semester of the PhD core econometrics
+sequence.  More information about this book can be found at the
+following links:
+* [*Core Econometrics Text*, homepage](/CoreEconometricsText)
+* [*Core Econometrics Text*, source code repository][git-core]
 
-Texts under development (pre-alpha)
------------------------------------
-
-The main text under developement is [Core Econometrics Notes][b],
-currently a collection of disorganized notes for a first-semester PhD
-econometrics core class.  The document is split into four pdfs; the
-most recent versions are:
-1. [Probability overview][core1]
-2. [Finite sample inference][core2]
-3. [Asymptotic theory][core3]
-4. [Linear regression][core4]
-
-You can download [older versions of the pdfs][g] as well.
-
-You can track this book's development at its [GitHub page][b] or
-through [this newsfeed][coreatom]. If you find errors in the text,
-please [email the project mailing list][maillist], or add the error to
-the [bug tracker][bugs].
-
-[coreatom]: https://github.com/EconometricsLibrary/CoreEconometricsText/commits/master.atom
-[b]: https://github.com/EconometricsLibrary/CoreEconometricsText
-[core1]: https://github.com/EconometricsLibrary/CoreEconometricsText/releases/download/v0.5.0/probability.pdf
-[core2]: https://github.com/EconometricsLibrary/CoreEconometricsText/releases/download/v0.5.0/finitesample.pdf
-[core3]: https://github.com/EconometricsLibrary/CoreEconometricsText/releases/download/v0.5.0/asymptotics.pdf
-[core4]: https://github.com/EconometricsLibrary/CoreEconometricsText/releases/download/v0.5.0/regression.pdf
-[g]: https://github.com/EconometricsLibrary/CoreEconometricsText/releases
-[bugs]: https://github.com/EconometricsLibrary/CoreEconometricsText/issues
-[maillist]: mailto:econometricslibrary@librelist.com
+Follow the [EFLP newsfeed](/blog) for updates ([RSS feed](/rss.xml)).
 
 Getting involved
 ----------------
 
 This is meant to be a community project, so your contributions are
-welcome.  The source code for *Core Econometrics Notes* is available
-on GitHub at
-<https://github.com/EconometricsLibrary/CoreEconometricsText> and you
-are free to download and modify it.  The [README file][a2] has
-directions on generating pdfs from the LaTeX source.
+welcome.  We need people to edit and review the ongoing *Core
+Econometrics Text*, please go to [its homepage](/CoreEconometricsText)
+for more information if you are interested.  We would also be elated
+to help anyone working on their own free and open access text—just
+email the mailing list for more information.
 
-Finding and reporting errors is enormously helpful.  When you find
-them, please [email the mailing list][maillist] or [add the error to
-the project's bug tracker][bugs].
-
-If you would like to help any other way, please email the project
-mailing list, <econometricslibrary@librelist.com>.  We are in the
-process of writing a more detailed guide and will post it when it is
-finished.
-
-[a2]: https://github.com/EconometricsLibrary/CoreEconometricsText/blob/master/README.md
-
-Contact information
--------------------
-
-We have a mailing list: <econometricslibrary@librelist.com>.  Please
-email the list if you have questions or error reports; the [Librelist
-homepage][i] has more information about this process.  Please note
-that your first email subscribes you to the list but is discarded.
-The [list archives][j] are available online as well.
+The project mailing list is <econometricslibrary@librelist.com> and is
+for discussion of both the Econometrics Free Library Project in
+general and the Core Econometrics Text.  Please email the list if you
+have questions or find errors in any of the texts; the
+[Librelist homepage][i] has more information about this process.
+Please note that your first email subscribes you to the list but is
+discarded.  The [list archives][j] are available online as well.
 
 The main GitHub page for this project is [EconometricsLibrary][k].
 
@@ -81,9 +44,11 @@ The main GitHub page for this project is [EconometricsLibrary][k].
 [j]: http://librelist.com/browser/econometricslibrary
 [k]: https://github.com/EconometricsLibrary
 
-Authors and Contributors
-------------------------
+Website details
+---------------
 
-This project was started on April 29, 2013 by [Gray Calhoun][l].
+This website is hosted on [GitHub Pages][] and maintained by
+[Gray Calhoun][].
 
-[l]: http://gray.clhn.co
+[GitHub Pages]: http://pages.github.com/
+[Gray Calhoun]: http://gray.clhn.co
