@@ -1,5 +1,5 @@
 ---
-layout: entitled
+layout: default
 title: First post and status update
 author: Gray Calhoun
 ---
