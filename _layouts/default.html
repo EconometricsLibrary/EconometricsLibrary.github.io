@@ -12,27 +12,17 @@
   </head>
   <body>
     <div class="wrapper">
-      <!-- HEADER -->
-      <header>
-        <h1 id="project_title">Econometrics Free Library Project</h1>
-        <p>A collection of free and open access (GNU-FDL) Econometrics textbooks</p>
-	<ul class>
-	  <li><a href="/blog">News/blog</a>
-	    (<a href="/rss.xml">rss feed</a>)</li>
-	  <li><a href="mailto:econometricslibrary@librelist.com">Mailing list</a>
-	    (<a href="http://librelist.com">details</a>,
-	    <a href="http://librelist.com/browser/econometricslibrary">archives</a>)</li>
-	  <li><a href="/">Home page</a></li>
-	  <li><a href="https://github.com/EconometricsLibrary">GitHub</a></li>
-	</ul>
-      </header>
       <section>
+	<h1>{{ page.title }}</h1>
+	<a href="/">EFLP Home</a> · <a href="/blog">EFLP News</a>
+	<hr>
+
 	{{ content }}
+	{% if page.date %}
+	<hr>
+	<p>{{ page.author }}, {{ page.date | date: "%d %b %Y" }}</p>
+	{% endif %}
       </section>
-      <!-- FOOTER  -->
-      <!-- <footer> -->
-      <!--   <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p> -->
-      <!-- </footer> -->
     </div>
     <script src="/javascripts/scale.fix.js"></script>
   </body>

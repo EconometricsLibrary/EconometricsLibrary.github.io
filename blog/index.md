@@ -1,5 +1,5 @@
 ---
-layout: entitled
+layout: default
 title: "EFLP News"
 ---
 
