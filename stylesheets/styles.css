@@ -96,15 +96,15 @@ img {
   max-width:100%;
 }
 
-header {
-  width:270px;
-  float:left;
-  position:fixed;
-}
+/* header { */
+/*   width:270px; */
+/*   float:left; */
+/*   position:fixed; */
+/* } */
 
 header ul {
   list-style:none;
-  height:40px;
+/*  height:40px; */
   
   padding:0;
   
@@ -122,12 +122,12 @@ header ul {
   /* width:270px; */
 }
 
-/* header li { */
+header li {
 /*   width:89px; */
 /*   float:left; */
 /*   border-right:1px solid #d2d2d2; */
 /*   height:40px; */
-/* } */
+}
 
 /* header ul a { */
 /*   line-height:1; */
@@ -162,7 +162,7 @@ header ul a strong {
 
 section {
   width:500px;
-  float:right;
+/*  float:left; */
   padding-bottom:50px;
 }
 
