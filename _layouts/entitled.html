@@ -27,7 +27,16 @@
 	</ul>
       </header>
       <section>
+	<h1>{{ page.title }}</h1>
+	
+	<hr>
+
 	{{ content }}
+
+	{% if page.date %}
+	<hr>
+	<p>{{ page.author }}, {{ page.date | date: "%d %b %Y" }}</p>
+	{% endif %}
       </section>
       <!-- FOOTER  -->
       <footer>
