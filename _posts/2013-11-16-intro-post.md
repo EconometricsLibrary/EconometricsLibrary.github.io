@@ -7,7 +7,7 @@ author: Gray Calhoun
 We've restyled the project's homepage and added a newsfeed.  So I
 should probably post some news.
 
-The *[Core Econometrics Notes][home]* have been progressing pretty
+The *[Core Econometrics Notes](/core)* have been progressing pretty
 well.  I've been using them as lecture notes as I teach graduate
 econometrics this Fall and have been updating them before and after
 lecture.  About 2/3 of it have been converted from a loose and
@@ -37,6 +37,5 @@ a starting point for his or her own work, feel free.
 
 Stay tuned.  I'll try to post updates here as we go.
 
-[home]: https://github.com/EconometricsLibrary/CoreEconometricsText
-[pdfs]: https://github.com/EconometricsLibrary/CoreEconometricsText/releases
+[pdfs]: https://github.com/EconometricsLibrary/core/releases
 [grayclhn]: https://github.com/grayclhn
