@@ -6,7 +6,7 @@ layout: default
 [FDL]: http://www.gnu.org/copyleft/fdl.html
 [git-core]: https://github.com/EconometricsLibrary/core
 
-The *Free Econometrics Library Project* aims to produce free and open
+The *Econometrics Free Library Project* aims to produce free and open
 access econometrics texts suitable for graduate education; all of the
 texts can be modified and redistributed under the
 [GNU Free Documentation License][FDL].
