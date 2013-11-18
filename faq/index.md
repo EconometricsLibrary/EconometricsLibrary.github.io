@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "EFLP Frequently Asked Questions"
+title: "Frequently Asked Questions for the Econometrics Free Library Project"
 ---
 
 {% for doc in site.categories.faq %}
