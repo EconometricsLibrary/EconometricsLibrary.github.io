@@ -26,14 +26,14 @@ Getting involved
 
 This is meant to be a community project, so your contributions are
 welcome.  We need people to edit and review the ongoing *Core
-Econometrics Text*, please go to [its homepage](/core) for more
+Econometrics* text, please go to [its homepage](/core) for more
 information if you are interested.  We would also be elated to help
 anyone working on their own free and open access text—just email the
 mailing list for more information.
 
 The project mailing list is <econometricslibrary@librelist.com> and is
 for discussion of both the Econometrics Free Library Project in
-general and the Core Econometrics Text.  Please email the list if you
+general and the *Core Econometrics* text.  Please email the list if you
 have questions or find errors in any of the texts; the [Librelist
 homepage][i] has more information about this process.  Please note
 that your first email subscribes you to the list but is discarded.

@@ -7,7 +7,7 @@ author: Gray Calhoun
 We've restyled the project's homepage and added a newsfeed.  So I
 should probably post some news.
 
-The *[Core Econometrics Notes](/core)* have been progressing pretty
+The [*Core Econometrics* notes](/core) have been progressing pretty
 well.  I've been using them as lecture notes as I teach graduate
 econometrics this Fall and have been updating them before and after
 lecture.  About 2/3 of it have been converted from a loose and
