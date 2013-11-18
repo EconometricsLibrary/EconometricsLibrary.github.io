@@ -1,1 +1,1 @@
-exclude: [README.md]
+exclude: [README.md, drafts/]
