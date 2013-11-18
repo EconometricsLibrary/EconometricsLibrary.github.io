@@ -16,11 +16,11 @@
 	<h1>{{ page.title }}</h1>
 	<a href="/">Home</a>
 	· <a href="/blog">News</a>
-	· <a href="/FAQ">FAQ</a>
+	· <a href="/faq">FAQ</a>
 	<hr>
 
 	{{ content }}
-	{% if page.date %}
+	{% if page.date and page.author %}
 	<hr>
 	<p>{{ page.author }}, {{ page.date | date: "%d %b %Y" }}</p>
 	{% endif %}
