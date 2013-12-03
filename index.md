@@ -17,10 +17,11 @@ This project started in April, 2013, and we are writing its first
 book, a textbook for the first semester of the PhD core econometrics
 sequence.  More information about this book can be found at the
 following links:
+
 * [the book][pdf], version 0.7.0 (pdf); also [release notes and old
   versions][old].
-* [Textbook homepage](/core)
-* [Source code repository][git-core]
+* [textbook homepage](/core)
+* [source code repository][git-core]
 
 Follow the [EFLP newsfeed](/blog) ([<ac>rss</ac>](/rss.xml)) for
 updates.
