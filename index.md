@@ -3,6 +3,8 @@ title: Econometrics Free Library Project
 layout: default
 ---
 
+[pdf]: https://github.com/EconometricsLibrary/core/releases/download/v0.7.0/core_econometrics.pdf
+[old]: https://github.com/EconometricsLibrary/core/releases
 [FDL]: http://www.gnu.org/copyleft/fdl.html
 [git-core]: https://github.com/EconometricsLibrary/core
 
@@ -15,6 +17,8 @@ This project started in April, 2013, and we are writing its first
 book, a textbook for the first semester of the PhD core econometrics
 sequence.  More information about this book can be found at the
 following links:
+* [the book][pdf], version 0.7.0 (pdf); also [release notes and old
+  versions][old].
 * [Textbook homepage](/core)
 * [Source code repository][git-core]
 
