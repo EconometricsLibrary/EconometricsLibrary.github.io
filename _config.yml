@@ -1,2 +1,3 @@
 permalink: pretty
 exclude: [README.md, drafts/]
+markdown: rdiscount
