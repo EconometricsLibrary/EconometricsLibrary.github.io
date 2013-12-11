@@ -70,26 +70,20 @@ material that should be listed here.
     * [Lecture notes][a2] (one pdf)
     * [Local copy of course material][a3] (licensed for noncomercial
       use under [CC BY-NC-SA 3.0][NC])
-
 * Anna Mikusheva's graduate course, [*Time Series Analysis*][a4],
   taught in fall 2008
-
     * [Lecture notes][a5] (links to individual pdfs)
     * [Recitation notes][a6] written by Paul Schrimpf (links to
       inidividual pdfs)
     * [Local copy of course material][a7] (licensed for noncomercial
       use under [CC BY-NC-SA 3.0][NC])
-
 * Victor Chernozhukov and Whitney Newey's graduate course [*Nonlinear
   Econometric Analysis*][a8], taught in fall 2007
-
     * [Lecture notes][a9] (links to individual pdfs)
     * [Local copy of course material][a10] (licensed for
       noncomercial use under [CC BY-NC-SA 3.0][NC])
-
 * Whitney Newey's graduate course [*New Econometric Methods*][a11],
   taught in spring 2007
-
     * [Lecture notes][a12] (links to individual pdfs)
     * [Local copy of course material][a13] (licensed for
       noncomercial use under [CC BY-NC-SA 3.0][NC])
@@ -140,12 +134,9 @@ These links have slides and videos
 * Bruce Hansen's [first year PhD econometrics textbook][c1] (may be
   printed and reproduced for individual or instructional use, but not
   for commercial purposes.)
-
 * Dan McFadden's [graduate econometrics lecture notes][c4] (2003)
-
 * Kenneth Train's book, [*Discrete Choice Methods with Simulation, 2nd edition*][c3] 
   (pdfs available for "personal research and study.")
-
 * Michael Creel's [graduate econometrics notes][c2] (GPL)
 
 [c1]: http://www.ssc.wisc.edu/~bhansen/econometrics
