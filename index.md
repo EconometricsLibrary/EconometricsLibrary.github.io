@@ -50,6 +50,14 @@ The main GitHub page for this project is [EconometricsLibrary][k].
 [j]: http://librelist.com/browser/econometricslibrary
 [k]: https://github.com/EconometricsLibrary
 
+External resources
+------------------
+
+There are other sources of free econometrics material. An incomplete
+list of some that stand out are:
+
+### From MIT's economics department (via [OpenCourseware](http://mit.ocw.edu/courses/economics))
+
 Website details
 ---------------
 
