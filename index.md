@@ -53,8 +53,15 @@ The main GitHub page for this project is [EconometricsLibrary][k].
 External resources
 ------------------
 
-There are other sources of free econometrics material. An incomplete
-list of some that stand out are:
+There are other sources of free econometrics material. This is an
+incomplete list of some that stand out. These links are provided for
+your convenience (and ours), but we do not maintain these
+documents. Please contact the original authors to report errors, etc.
+
+Also, please contact the project mailing list if you know of other
+material that should be listed here.
+
+[NC]: http://creativecommons.org/licenses/by-nc-sa/3.0/us/
 
 ### From MIT's economics department (via [OpenCourseware](http://ocw.mit.edu/courses/economics))
 
@@ -86,15 +93,6 @@ list of some that stand out are:
     * [Lecture notes][a12] (links to individual pdfs)
     * [Local copy of course material][a13] (licensed for
       noncomercial use under [CC BY-NC-SA 3.0][NC])
-
-These links are provided for your convenience (and ours), but we do
-not maintain these documents. Please contact the original authors to
-report errors, etc.
-
-Also, please contact the project mailing list if you know of other
-material that should be listed here.
-
-[NC]: http://creativecommons.org/licenses/by-nc-sa/3.0/us/
 
 [a1]: http://ocw.mit.edu/courses/economics/14-381-statistical-method-in-economics-fall-2006/
 [a2]: http://ocw.mit.edu/courses/economics/14-381-statistical-method-in-economics-fall-2006/lecture-notes/notes_part_2.pdf
