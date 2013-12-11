@@ -111,6 +111,48 @@ material that should be listed here.
 [a12]: http://ocw.mit.edu/courses/economics/14-386-new-econometric-methods-spring-2007/readings/
 [a13]: /core/dl/14-386-spring-2007.zip
 
+
+### From the [NBER summer institute econometric
+    lectures](http://www.nber.org/SI_econometrics_lectures.html)
+
+These links have slides and videos
+
+* [Imbens and Wooldridge, microeconometrics (2007)][d1]
+      * [Course notes as a single pdf][d2]
+* [Stock and Watson, time series (2008)][d3]
+* [List and Kremer, field experiments (2009)][d4]
+* [Ludvigson, Ait-Sahalia, Brandt, and Lo, financial econometrics (2010)][d5]
+* [Christiano and Fernandez-Villaverde, computational tools and macro applications (2011)][d6]
+* [Pakes and Nevo, demand estimation (2012)][d7]
+* [Chernozhukov, Gentzkow,  Hansen, Shapiro, and Taddy, high dimensional data (2013)][d8]
+
+[d1]: http://www.nber.org/minicourse3.html
+[d2]: http://www.nber.org/WNE/WNEnotes.pdf
+[d3]: http://www.nber.org/minicourse_2008.html
+[d4]: http://www.streamingmeeting.com/webmeeting/matrixvideo/nber/index.html
+[d5]: http://www.nber.org/econometrics_minicourse_2010
+[d6]: http://www.nber.org/econometrics_minicourse_2011
+[d7]: http://www.nber.org/econometrics_minicourse_2012
+[d8]: http://www.nber.org/econometrics_minicourse_2013
+
+### Others
+
+* [Bruce Hansen's first year PhD econometrics textbook][c1] (may be
+  printed and reproduced for individual or instructional use, but not
+  for commercial purposes.)
+
+* [Dan McFadden's graduate econometrics lecture notes (2003)][c4]
+
+* [Kenneth Train's book, *Discrete Choice Methods with Simulation, 2nd edition*][c3] 
+  (pdfs available for "personal research and study.")
+
+* [Michael Creel's graduate econometrics notes][c2] (GPL)
+
+[c1]: http://www.ssc.wisc.edu/~bhansen/econometrics
+[c2]: http://pareto.uab.es/mcreel/Econometrics/
+[c3]: http://elsa.berkeley.edu/books/choice2.html
+[c4]: http://elsa.berkeley.edu/users/mcfadden/e240b_sp03/e240b.html
+
 Website details
 ---------------
 
