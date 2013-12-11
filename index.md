@@ -112,13 +112,14 @@ material that should be listed here.
 [a13]: /core/dl/14-386-spring-2007.zip
 
 
-### From the [NBER summer institute econometric
-    lectures](http://www.nber.org/SI_econometrics_lectures.html)
+### From the [NBER summer institute econometric lectures][d0]
 
 These links have slides and videos
 
 * [Imbens and Wooldridge, microeconometrics (2007)][d1]
-      * [Course notes as a single pdf][d2]
+
+    * [Course notes as a single pdf][d2]
+
 * [Stock and Watson, time series (2008)][d3]
 * [List and Kremer, field experiments (2009)][d4]
 * [Ludvigson, Ait-Sahalia, Brandt, and Lo, financial econometrics (2010)][d5]
@@ -126,6 +127,7 @@ These links have slides and videos
 * [Pakes and Nevo, demand estimation (2012)][d7]
 * [Chernozhukov, Gentzkow,  Hansen, Shapiro, and Taddy, high dimensional data (2013)][d8]
 
+[d0]: http://www.nber.org/SI_econometrics_lectures.html
 [d1]: http://www.nber.org/minicourse3.html
 [d2]: http://www.nber.org/WNE/WNEnotes.pdf
 [d3]: http://www.nber.org/minicourse_2008.html
