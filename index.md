@@ -58,6 +58,26 @@ list of some that stand out are:
 
 ### From MIT's economics department (via [OpenCourseware](http://mit.ocw.edu/courses/economics))
 
+* [Victor Chernozhukov's graduate course, *Statistical Methods in
+  Economics*][a1], taught in fall 2006
+      * [Lecture notes][a2] (one pdf)
+      * [Local copy of course material][a3] (licensed for noncomercial
+        use under [CC BY-NC-SA 3.0][NC])
+
+These links are provided for your convenience (and ours), but we do
+not maintain these documents. Please contact the original authors to
+report errors, etc.
+
+Also, please contact the project mailing list if you know of other
+material that should be listed here.
+
+[NC]: http://creativecommons.org/licenses/by-nc-sa/3.0/us/
+
+[a1]: http://ocw.mit.edu/courses/economics/14-381-statistical-method-in-economics-fall-2006/
+[a2]: http://ocw.mit.edu/courses/economics/14-381-statistical-method-in-economics-fall-2006/lecture-notes/notes_part_2.pdf
+[a3]: /core/dl/14-381-fall-2006.zip
+
+
 Website details
 ---------------
 
