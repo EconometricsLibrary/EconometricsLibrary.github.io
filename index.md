@@ -56,13 +56,33 @@ External resources
 There are other sources of free econometrics material. An incomplete
 list of some that stand out are:
 
-### From MIT's economics department (via [OpenCourseware](http://mit.ocw.edu/courses/economics))
+### From MIT's economics department (via [OpenCourseware](http://ocw.mit.edu/courses/economics))
 
 * [Victor Chernozhukov's graduate course, *Statistical Methods in
   Economics*][a1], taught in fall 2006
-      * [Lecture notes][a2] (one pdf)
-      * [Local copy of course material][a3] (licensed for noncomercial
-        use under [CC BY-NC-SA 3.0][NC])
+    * [Lecture notes][a2] (one pdf)
+    * [Local copy of course material][a3] (licensed for noncomercial
+      use under [CC BY-NC-SA 3.0][NC])
+
+* [Anna Mikusheva's graduate course, *Time Series Analysis*][a4],
+  taught in fall 2008
+    * [Lecture notes][a5] (links to individual pdfs)
+    * [Recitation notes][a6] written by Paul Schrimpf (links to
+      inidividual pdfs)
+    * [Local copy of course material][a7] (licensed for noncomercial
+      use under [CC BY-NC-SA 3.0][NC])
+
+* [Victor Chernozhukov and Whitney Newey's graduate course *Nonlinear
+  Econometric Analysis*][a8], taught in fall 2007
+    * [Lecture notes][a9] (links to individual pdfs)
+    * [Local copy of course material][a10] (licensed for
+      noncomercial use under [CC BY-NC-SA 3.0][NC])
+
+* [Whitney Newey's graduate course *New Econometric Methods*][a11],
+  taught in spring 2007
+    * [Lecture notes][a12] (links to individual pdfs)
+    * [Local copy of course material][a13] (licensed for
+      noncomercial use under [CC BY-NC-SA 3.0][NC])
 
 These links are provided for your convenience (and ours), but we do
 not maintain these documents. Please contact the original authors to
@@ -77,6 +97,18 @@ material that should be listed here.
 [a2]: http://ocw.mit.edu/courses/economics/14-381-statistical-method-in-economics-fall-2006/lecture-notes/notes_part_2.pdf
 [a3]: /core/dl/14-381-fall-2006.zip
 
+[a4]: http://ocw.mit.edu/courses/economics/14-384-time-series-analysis-fall-2008/
+[a5]: http://ocw.mit.edu/courses/economics/14-384-time-series-analysis-fall-2008/lecture-notes
+[a6]: http://ocw.mit.edu/courses/economics/14-384-time-series-analysis-fall-2008/recitations/
+[a7]: /core/dl/14-384-fall-2008.zip
+
+[a8]: http://ocw.mit.edu/courses/economics/14-385-nonlinear-econometric-analysis-fall-2007/
+[a9]: http://ocw.mit.edu/courses/economics/14-385-nonlinear-econometric-analysis-fall-2007/lecture-notes
+[a10]: /core/dl/14-385-fall-2007.zip
+
+[a11]: http://ocw.mit.edu/courses/economics/14-386-new-econometric-methods-spring-2007/
+[a12]: http://ocw.mit.edu/courses/economics/14-386-new-econometric-methods-spring-2007/readings/
+[a13]: /core/dl/14-386-spring-2007.zip
 
 Website details
 ---------------
