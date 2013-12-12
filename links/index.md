@@ -57,7 +57,7 @@ From MIT's economics department (via [OpenCourseware](http://ocw.mit.edu/courses
 [a13]: /core/dl/14-386-spring-2007.zip
 
 
-From the [nber summer institute econometric lectures][d0]
+From the [NBER summer institute econometric lectures][d0]
 ---------------------------------------------------------
 
 Links to slides and videos.
