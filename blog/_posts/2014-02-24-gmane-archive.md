@@ -14,12 +14,14 @@ archives, but it also provides more functionality:
 * You can read the messages in a dedicated newsreader. (I recommend
   [slrn][].)
 
-You may notice a preference for text-based readers. Please take that
+You may notice a preference for text-based readers. (This website, by
+the way looks fantastic in [lynx][].). Please take that
 as a hint and use old-fashioned [email netiquette][b] when you post to
 the list. (Top 3 in order: bottom posting, plain-text messages, and 72
 character lines.)
 
 [Gmane]: http://gmane.org
+[lynx]: http://lynx.browser.org/
 [newsbeuter]: http://www.newsbeuter.org
 [slrn]: http://slrn.sourceforge.net/
 [a]: http://dir.gmane.org/gmane.science.economics.econometricslibrary
