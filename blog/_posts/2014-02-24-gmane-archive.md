@@ -15,7 +15,7 @@ archives, but it also provides more functionality:
   [slrn][].)
 
 You may notice a preference for text-based readers. (This website, by
-the way looks fantastic in [lynx][].). Please take that
+the way looks fantastic in [lynx][].) Please take that
 as a hint and use old-fashioned [email netiquette][b] when you post to
 the list. (Top 3 in order: bottom posting, plain-text messages, and 72
 character lines.)
