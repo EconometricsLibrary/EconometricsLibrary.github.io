@@ -38,17 +38,20 @@ mailing list for more information.
 
 The project mailing list is <econometricslibrary@librelist.com> and is
 for discussion of both the Econometrics Free Library Project in
-general and the *Core Econometrics* text.  Please email the list if you
-have questions or find errors in any of the texts; the [Librelist
+general and the *Core Econometrics* text.  Please email the list if
+you have questions or find errors in any of the texts; the [Librelist
 homepage][i] has more information about this process.  Please note
 that your first email subscribes you to the list but is discarded.
-The [list archives][j] are available online as well.
+The list archives are available online as well, either [at
+librelist.com][j] or on [gmane.org][l]. (Gmane also provides an
+<ac>rss</ac> feed and <ac>nntp</ac> server for the mailing list.)
 
-The main GitHub page for this project is [EconometricsLibrary][k].
+The main GitHub page for this project is [github.com/EconometricsLibrary][k].
 
 [i]: http://librelist.com
 [j]: http://librelist.com/browser/econometricslibrary
 [k]: https://github.com/EconometricsLibrary
+[l]: http://dir.gmane.org/gmane.science.economics.econometricslibrary
 
 Website details
 ---------------
