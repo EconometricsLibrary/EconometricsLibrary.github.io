@@ -3,55 +3,168 @@ title: Econometrics Free Library Project
 layout: default
 ---
 
-[pdf]: https://github.com/EconometricsLibrary/core/releases/download/v0.7.2/core_econometrics.pdf
-[old]: https://github.com/EconometricsLibrary/core/releases
 [FDL]: http://www.gnu.org/copyleft/fdl.html
-[git-core]: https://github.com/EconometricsLibrary/core
+[NC]: http://creativecommons.org/licenses/by-nc-sa/3.0/us/deed.en_US
+[NC4]: http://creativecommons.org/licenses/by-nc-nd/4.0
 
-The *Econometrics Free Library Project* aims to produce free and open
-access econometrics texts suitable for graduate education; all of the
-texts can be modified and redistributed under the
-[GNU Free Documentation License][FDL].
+The *Econometrics Free Library Project* aims to distribute free and
+open access econometrics texts suitable for graduate
+education. Although the original plan was to produce these texts
+ourselves, time constraints have made that impractical, so we’ll
+focus on curation. (“We” is one tenure-track professor.)
 
-This project started in April, 2013, and we are writing its first
-book, a textbook for the first semester of the PhD core econometrics
-sequence.  More information about this book can be found at the
-following links:
+This webpage has links to free econometrics resources, with a
+preference for explicitly open-access resources where possible. We
+will also try to announce updates to those resources via our:
 
-* [the book][pdf], version 0.7.2 (pdf); also [release notes and old
-  versions][old].
-* [textbook homepage](/core)
-* [source code repository][git-core]
+* mailing list: <econometricslibrary@librelist.com>
+  (archived at [Gmane][a4] and [librelist][a2])
+* [RSS feed](/rss.xml)
+* Twitter (not yet, but soon).
 
-Follow the [EFLP newsfeed](/blog) ([<ac>rss</ac>](/rss.xml)) for
-updates.
+You can subscribe to the RSS feed with any newsreader.
 
-Getting involved
-----------------
+To subscribe to the mailing list, simply send an email to
+<econometricslibrary@librelist.com>. It’s a discussion list, so any
+future messages will go to all of the subscribers. (Your signup email
+is dropped.) The [Librelist homepage][a1] has more information about
+their mailing list service.
 
-This is meant to be a community project, so your contributions are
-welcome.  We need people to edit and review the ongoing *Core
-Econometrics* text, please go to [its homepage](/core) for more
-information if you are interested.  We would also be elated to help
-anyone working on their own free and open access text—just email the
-mailing list for more information.
+It's worth emphasizing: we want to respect every author's
+copyright. Where possible, we'd like to host a local copy of all of
+the resources listed here to mitigate linkrot, but if we have
+misinterpreted your license or your intent, please email the project
+mailing list and we will happily remove it.
 
-The project mailing list is <econometricslibrary@librelist.com> and is
-for discussion of both the Econometrics Free Library Project in
-general and the *Core Econometrics* text.  Please email the list if
-you have questions or find errors in any of the texts; the [Librelist
-homepage][i] has more information about this process.  Please note
-that your first email subscribes you to the list but is discarded.
-The list archives are available online as well, either [at
-librelist.com][j] or on [gmane.org][l]. (Gmane also provides an
-<ac>rss</ac> feed and <ac>nntp</ac> server for the mailing list.)
+Also note that, if we host or link to a resource, it in no way implies
+that the author of that resource endorses this project.
 
-The main GitHub page for this project is [github.com/EconometricsLibrary][k].
+[a1]: http://librelist.com
+[a2]: http://librelist.com/browser/econometricslibrary
+[a3]: https://github.com/EconometricsLibrary
+[a4]: http://dir.gmane.org/gmane.science.economics.econometricslibrary
 
-[i]: http://librelist.com
-[j]: http://librelist.com/browser/econometricslibrary
-[k]: https://github.com/EconometricsLibrary
-[l]: http://dir.gmane.org/gmane.science.economics.econometricslibrary
+<hr />
+
+Resources for the PhD core classes
+----------------------------------
+
+* Textbooks:
+  * Dan McFadden's *Statistical Tools for Economists* (2001)
+    [homepage][b1], [local copy][b2] and [data sets][b3] (may be
+    printed and reproduced for individual use, but not for commercial
+    purposes)
+  * Bruce Hansen’s *Econometrics* (revised Jan. 3rd, 2014)
+    [homepage][b4], [local copy][b5] (may be printed and reproduced for
+    individual or instructional use, but not for commercial purposes)
+* Textbooks under development:
+  * Gray Calhoun's *Core Econometrics* (version 0.7.2, 2014):
+    [pdf][b10], [source code][b11], and [release history][b12]. This
+    project is hosted by the Econometrics Free Library Project and
+    licensed under the [GNU Free Documentation License][FDL].
+* MIT OpenCourseWare:
+  * Anna Mikusheva's "Statistical Methods in Economics" (Part I)
+    [homepage][b6], [local copy][b7] ([Creative Commons BY-NC-SA][NC])
+  * Victor Chernozhukov's "Statistical Methods in Economics" (Part II)
+    [homepage][b8], [local copy][b9] ([Creative Commons BY-NC-SA][NC])
+
+[b1]: http://eml.berkeley.edu/~mcfadden/e240a_sp01/e240a.html
+[b2]: /dl/mcfadden_statistical_tools.pdf
+[b3]: /dl/mcfadden_data.zip
+[b4]: http://www.ssc.wisc.edu/~bhansen/econometrics/
+[b5]: /dl/hansen_econometrics.pdf
+[b6]: http://ocw.mit.edu/courses/economics/14-381-statistical-method-in-economics-fall-2013/
+[b7]: /dl/14-381-fall-2013.zip
+[b8]: http://ocw.mit.edu/courses/economics/14-381-statistical-method-in-economics-fall-2006/
+[b9]: /dl/14-381-fall-2006.zip
+[b10]: https://github.com/EconometricsLibrary/core/releases/download/v0.7.2/core_econometrics.pdf
+[b11]: https://github.com/EconometricsLibrary/core
+[b12]: https://github.com/EconometricsLibrary/core/releases
+
+Microeconometrics electives
+---------------------------
+
+* Textbooks
+  * Kenneth Train's *Discrete Choice Methods with Simulation* (second
+    edition, 2009, published by Cambridge University Press)
+    [homepage][c1] — the electronic version is "made available for use
+    by individuals for their personal research and study," so we're
+    unable to provide a local copy.
+* Recorded lectures:
+  * Imbens and Wooldridge, ["What's new in Econometrics"][c2] (2007
+    NBER Summer Institute); the course notes are available as a
+    [single pdf][c3]
+  * List and Kremer, ["Using field experiments in economics"][c4]
+    (2009 NBER Summer Institute)
+  * Pakes and Nevo's [NBER lectures on "Econometric methods for
+    demand estimation"][c5] (2012)
+  * Acemoglu and Jackson's [NBER lectures on "Theory and Application
+    of Network Models"][c6] (2014)
+
+[c1]: http://eml.berkeley.edu/books/choice2.html
+[c2]: http://www.nber.org/minicourse3.html
+[c3]: http://www.nber.org/WNE/WNEnotes.pdf
+[c4]: http://www.streamingmeeting.com/webmeeting/matrixvideo/nber/index.html
+[c5]: http://www.nber.org/econometrics_minicourse_2012
+[c6]: http://www.nber.org/econometrics_minicourse_2014
+
+Macroeconometrics and financial econometrics
+--------------------------------------------
+
+* MIT OpenCourseWare:
+  * Anna Mikusheva's "Time Series Analysis"
+    [homepage][d1], [local copy][d2] ([Creative Commons BY-NC-SA][NC])
+* Recorded lectures:
+  * Stock and Watson, [What's new in econometrics — time series"][d3] (2008
+    NBER Summer Institute)
+  * Ludvigson, Ait-Sahalia, Brandt, and Lo's [NBER lectures on
+    "Financial econometrics"][d4] (2010)
+  * Christiano and Fernandez-Villaverde's [NBER lectures on
+    "Computational tools and macro applications"][d5] (2011)
+
+[d1]: http://ocw.mit.edu/courses/economics/14-384-time-series-analysis-fall-2013/
+[d2]: /dl/14-384-fall-2013.zip
+[d3]: http://www.nber.org/minicourse_2008.html
+[d4]: http://www.nber.org/econometrics_minicourse_2010
+[d5]: http://www.nber.org/econometrics_minicourse_2011
+
+Machine Learning topics
+-----------------------
+
+* Textbooks:
+  * Hastie, Tibshirani, and Friedman's *The elements of statistical
+    learning*. [Homepage][e2], [pdf][e3] (2nd edition, last corrected
+    Jan 2013)
+  * James, Witten, Hastie, and Tibshirani's *An Introduction to
+    Statistical Learning*. [Homepage][e4], [pdf][e5] (corrected 4th
+    printing.) This book is aimed at advanced undergraduates and
+    masters students
+* Recorded lectures:
+  * Chernozhukov, Gentzkow, Hansen, Shapiro, and Taddy's [NBER
+    lectures on "Econometric methods for high-dimensional data"][e1]
+    (2013)
+
+[e1]: http://www.nber.org/econometrics_minicourse_2013
+[e2]: http://statweb.stanford.edu/~tibs/ElemStatLearn/
+[e3]: http://statweb.stanford.edu/~tibs/ElemStatLearn/printings/ESLII_print10.pdf
+[e4]: http://www-bcf.usc.edu/~gareth/ISL
+[e5]: "http://www-bcf.usc.edu/~gareth/ISL/ISLR Fourth Printing.pdf"
+
+Undergraduate
+-------------
+
+* Textbooks:
+  * Frank Diebold's *Econometrics*. [Homepage][g1], [pdf][g2], and
+    [local copy][g3] (Creative Commons [BY-NC-ND 4.0][NC4])
+  * James, Witten, Hastie, and Tibshirani's *An Introduction to
+    Statistical Learning*. [Homepage][e4], [pdf][e5] (corrected 4th
+    printing.) (Repeated from above.)
+
+[g1]: http://www.ssc.upenn.edu/~fdiebold/Textbooks.html
+[g2]: http://www.ssc.upenn.edu/~fdiebold/Teaching104/Econometrics.pdf
+[g3]: /dl/diebold_econometrics.pdf
+
+<hr />
 
 Website details
 ---------------
@@ -60,4 +173,4 @@ This website is hosted on [GitHub Pages][] and maintained by
 [Gray Calhoun][].
 
 [GitHub Pages]: http://pages.github.com/
-[Gray Calhoun]: http://gray.clhn.co
+[Gray Calhoun]: http://www.econ.iastate.edu/~gcalhoun
