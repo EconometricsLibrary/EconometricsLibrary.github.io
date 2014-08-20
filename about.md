@@ -11,11 +11,11 @@ This website has links to free econometrics resources, with a
 preference for explicitly open-access resources where possible. We
 will also try to announce updates to those resources via our:
 
-* mailing list: <econometricslibrary@librelist.com>
+* Mailing list: <econometricslibrary@librelist.com>
   (archived at [Gmane][a4] and [librelist][a2])
 * [RSS feed](/rss.xml)
-* [news page](/news)
-* Twitter (not yet, but soon).
+* [News page](/news)
+* [Twitter](https://twitter.com/EconometricsLib)
 
 You can subscribe to the RSS feed with any newsreader.
 
