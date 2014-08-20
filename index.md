@@ -20,6 +20,7 @@ will also try to announce updates to those resources via our:
 * mailing list: <econometricslibrary@librelist.com>
   (archived at [Gmane][a4] and [librelist][a2])
 * [RSS feed](/rss.xml)
+* [news page](/news)
 * Twitter (not yet, but soon).
 
 You can subscribe to the RSS feed with any newsreader.
