@@ -80,6 +80,9 @@ Microeconometrics electives
 Macroeconometrics and financial econometrics
 --------------------------------------------
 
+* Textbooks
+  * John Cochrane’s “Time Series for Macroeconomics and Finance.”
+    [pdf][d6]
 * MIT OpenCourseWare:
   * Anna Mikusheva’s “Time Series Analysis”
     [homepage][d1], [local copy][d2] ([Creative Commons BY-NC-SA][NC])
@@ -96,6 +99,7 @@ Macroeconometrics and financial econometrics
 [d3]: http://www.nber.org/minicourse_2008.html
 [d4]: http://www.nber.org/econometrics_minicourse_2010
 [d5]: http://www.nber.org/econometrics_minicourse_2011
+[d6]: http://faculty.chicagobooth.edu/john.cochrane/research/papers/time_series_book.pdf
 
 Machine Learning topics
 -----------------------
