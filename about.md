@@ -8,8 +8,9 @@ layout: default
 [NC4]: http://creativecommons.org/licenses/by-nc-nd/4.0
 
 This website has links to free econometrics resources, with a
-preference for explicitly open-access resources where possible. We
-will also try to announce updates to those resources via our:
+preference for explicitly open-access resources where possible.
+
+We will also try to announce updates to those resources via our:
 
 * Mailing list: <econometricslibrary@librelist.com>
   (archived at [Gmane][a4] and [librelist][a2])
