@@ -19,23 +19,23 @@ Resources for the PhD core classes
 ----------------------------------
 
 * Textbooks:
-  * Dan McFadden’s *Statistical Tools for Economists* (2001)
-    [homepage][b1], [local copy][b2] and [data sets][b3] (may be
-    printed and reproduced for individual use, but not for commercial
-    purposes)
-  * Bruce Hansen’s *Econometrics* (revised Jan. 3rd, 2014)
+  * Dan McFadden’s *[Statistical Tools for Economists][b1]*, 2001:
+    [homepage][b1], [local copy][b2] and [data sets][b3] (may be printed and
+    reproduced for individual use, but not for commercial purposes)
+  * Bruce Hansen’s *[Econometrics][b4]*, revised Jan. 3rd, 2014:
     [homepage][b4], [local copy][b5] (may be printed and reproduced for
     individual or instructional use, but not for commercial purposes)
 * Textbooks under development:
-  * Gray Calhoun’s *Core Econometrics* (version 0.7.2, 2014):
-    [pdf][b10], [source code][b11], and [release history][b12]. This
-    project is hosted by the Econometrics Free Library Project and
-    licensed under the [GNU Free Documentation License][FDL].
+  * Gray Calhoun’s *[Core Econometrics][b10]*, version 0.7.2, released
+    June 23rd, 2014 [Home page with source code][b11], [pdf][b10], and
+    [release history][b12]. This project is hosted by the Econometrics
+    Free Library Project and licensed under the [GNU Free
+    Documentation License][FDL].
 * MIT OpenCourseWare:
-  * Anna Mikusheva’s “Statistical Methods in Economics” (Part I)
+  * Anna Mikusheva’s *[Statistical Methods in Economics][b6]* (Part I):
     [homepage][b6], [local copy][b7] ([Creative Commons BY-NC-SA][NC])
-  * Victor Chernozhukov’s “Statistical Methods in Economics” (Part II)
-    [homepage][b8], [local copy][b9] ([Creative Commons BY-NC-SA][NC])
+  * Victor Chernozhukov’s *[Statistical Methods in Economics][b8]* (Part II):
+    [Homepage][b8], [local copy][b9] ([Creative Commons BY-NC-SA][NC])
 
 [b1]: http://eml.berkeley.edu/~mcfadden/e240a_sp01/e240a.html
 [b2]: /dl/mcfadden_statistical_tools.pdf
@@ -53,22 +53,25 @@ Resources for the PhD core classes
 Microeconometrics electives
 ---------------------------
 
-* Textbooks
-  * Kenneth Train’s *Discrete Choice Methods with Simulation* (second
-    edition, 2009, published by Cambridge University Press)
-    [homepage][c1] — the electronic version is “made available for use
+* Textbooks:
+  * Kenneth Train’s *[Discrete Choice Methods with Simulation][c1]*, second
+    edition, 2009  
+    [Homepage][c1] — the electronic version is “made available for use
     by individuals for their personal research and study,” so we’re
-    unable to provide a local copy.
+    unable to provide a local copy (published by Cambridge University Press).
+* Lecture notes:
+  * Imbens and Wooldridge, *[What’s new in Econometrics][c3]* (2007
+    NBER Summer Institute) — single pdf file of notes to accompany
+    their recorded lectures (see below)
 * Recorded lectures:
-  * Imbens and Wooldridge, [“What’s new in Econometrics”][c2] (2007
-    NBER Summer Institute); the course notes are available as a
-    [single pdf][c3]
-  * List and Kremer, [“Using field experiments in economics”][c4]
+  * Imbens and Wooldridge, *[What’s new in Econometrics][c2]* (2007
+    NBER Summer Institute) ([pdf][c3] of course notes)
+  * List and Kremer, *[Using field experiments in economics][c4]*
     (2009 NBER Summer Institute)
-  * Pakes and Nevo’s [NBER lectures on “Econometric methods for
-    demand estimation”][c5] (2012)
-  * Acemoglu and Jackson’s [NBER lectures on “Theory and Application
-    of Network Models”][c6] (2014)
+  * Pakes and Nevo’s, *[Econometric methods for demand
+    estimation][c5]* (2012 NBER Summer Institute)
+  * Acemoglu and Jackson’s *[Theory and Application
+    of Network Models][c6]* (2014 NBER Summer Institute)
 
 [c1]: http://eml.berkeley.edu/books/choice2.html
 [c2]: http://www.nber.org/minicourse3.html
@@ -80,19 +83,20 @@ Microeconometrics electives
 Macroeconometrics and financial econometrics
 --------------------------------------------
 
-* Textbooks
-  * John Cochrane’s “Time Series for Macroeconomics and Finance.”
-    [pdf][d6]
+* Textbooks:
+  * John Cochrane’s [*Time Series for Macroeconomics and
+    Finance*][d6]: [pdf][d6], free of cost for noncommercial use, but no
+    explicit license
 * MIT OpenCourseWare:
-  * Anna Mikusheva’s “Time Series Analysis”
+  * Anna Mikusheva’s [*Time Series Analysis*][d1]:
     [homepage][d1], [local copy][d2] ([Creative Commons BY-NC-SA][NC])
 * Recorded lectures:
-  * Stock and Watson, [“What’s new in econometrics — time series”][d3] (2008
+  * Stock and Watson, [*What’s new in econometrics — time series*][d3] (2008
     NBER Summer Institute)
-  * Ludvigson, Ait-Sahalia, Brandt, and Lo’s [NBER lectures on
-    “Financial econometrics”][d4] (2010)
-  * Christiano and Fernandez-Villaverde’s [NBER lectures on
-    “Computational tools and macro applications”][d5] (2011)
+  * Ludvigson, Ait-Sahalia, Brandt, and Lo’s [*Financial
+    econometrics*][d4] (2010 NBER Summer Institute)
+  * Christiano and Fernandez-Villaverde’s [*Computational tools and
+    macro applications*][d5] (2011 NBER Summer Institute)
 
 [d1]: http://ocw.mit.edu/courses/economics/14-384-time-series-analysis-fall-2013/
 [d2]: /dl/14-384-fall-2013.zip
@@ -105,17 +109,17 @@ Machine Learning topics
 -----------------------
 
 * Textbooks:
-  * Hastie, Tibshirani, and Friedman’s *The elements of statistical
-    learning*. [Homepage][e2], [pdf][e3] (2nd edition, last corrected
-    Jan 2013)
-  * James, Witten, Hastie, and Tibshirani’s *An Introduction to
-    Statistical Learning*. [Homepage][e4], [pdf][e5] (corrected 4th
-    printing.) This book is aimed at advanced undergraduates and
-    masters students
+  * Hastie, Tibshirani, and Friedman’s [*The elements of statistical
+    learning*][e2] (2nd edition, last corrected in Jan 2013):
+    [homepage][e2], [pdf][e3]
+  * James, Witten, Hastie, and Tibshirani’s [*An Introduction to
+    Statistical Learning*][e4] (corrected 4th printing):
+    [homepage][e4], [pdf][e5] This book is aimed at advanced
+    undergraduates and masters students
 * Recorded lectures:
-  * Chernozhukov, Gentzkow, Hansen, Shapiro, and Taddy’s [NBER
-    lectures on “Econometric methods for high-dimensional data”][e1]
-    (2013)
+  * Chernozhukov, Gentzkow, Hansen, Shapiro, and Taddy’s
+    [*Econometric methods for high-dimensional data*][e1]
+    (2013 NBER Summer Institute)
 
 [e1]: http://www.nber.org/econometrics_minicourse_2013
 [e2]: http://statweb.stanford.edu/~tibs/ElemStatLearn/
@@ -127,10 +131,10 @@ Undergraduate
 -------------
 
 * Textbooks:
-  * Frank Diebold’s *Econometrics*. [Homepage][g1], [pdf][g2], and
+  * Frank Diebold’s [*Econometrics*][g1]: [homepage][g1], [pdf][g2], and
     [local copy][g3] (Creative Commons [BY-NC-ND 4.0][NC4])
-  * James, Witten, Hastie, and Tibshirani’s *An Introduction to
-    Statistical Learning*. [Homepage][e4], [pdf][e5] (corrected 4th
+  * James, Witten, Hastie, and Tibshirani’s [*An Introduction to
+    Statistical Learning*][e4]: [homepage][e4], [pdf][e5] (corrected 4th
     printing.) (Repeated from above.)
 
 [g1]: http://www.ssc.upenn.edu/~fdiebold/Textbooks.html
