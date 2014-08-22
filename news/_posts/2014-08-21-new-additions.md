@@ -5,7 +5,7 @@ author: Gray Calhoun
 ---
 
 Quickly, a list of the resources we’ve consolidated on the homepage
-(for links, go to the project homepage)
+(for links, go to the [project homepage](/))
 
 For the PhD core: Dan McFadden’s *Statistical Tools for Economists*
 and Bruce Hansen’s *Econometrics*, both of which seem reasonably
