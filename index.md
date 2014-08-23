@@ -13,8 +13,21 @@ education. Although the original plan was to produce these texts
 ourselves, time constraints have made that impractical, so we’ll
 focus on curation. (“We” is one tenure-track professor.)
 
+* Page contents
+  * [Resources for the PhD core classes](#1)
+  * [Microeconometrics electives](#2)
+  * [Macroeconometrics and financial econometrics](#3)
+  * [Machine Learning topics](#4)
+  * [Undergraduate](#5)
+  * [Website details](#6)
+
+* Other pages on this website
+  * [About this website](/about)
+  * [Project news](/news) ([as RSS](/rss.xml))
+
 <hr />
 
+<a id="1"> </a>
 Resources for the PhD core classes
 ----------------------------------
 
@@ -50,6 +63,7 @@ Resources for the PhD core classes
 [b11]: https://github.com/EconometricsLibrary/core
 [b12]: https://github.com/EconometricsLibrary/core/releases
 
+<a id="2"> </a>
 Microeconometrics electives
 ---------------------------
 
@@ -80,6 +94,7 @@ Microeconometrics electives
 [c5]: http://www.nber.org/econometrics_minicourse_2012
 [c6]: http://www.nber.org/econometrics_minicourse_2014
 
+<a id="3"> </a>
 Macroeconometrics and financial econometrics
 --------------------------------------------
 
@@ -105,6 +120,7 @@ Macroeconometrics and financial econometrics
 [d5]: http://www.nber.org/econometrics_minicourse_2011
 [d6]: http://faculty.chicagobooth.edu/john.cochrane/research/papers/time_series_book.pdf
 
+<a id="4"> </a>
 Machine Learning topics
 -----------------------
 
@@ -127,6 +143,7 @@ Machine Learning topics
 [e4]: http://www-bcf.usc.edu/~gareth/ISL
 [e5]: "http://www-bcf.usc.edu/~gareth/ISL/ISLR Fourth Printing.pdf"
 
+<a id="5"> </a>
 Undergraduate
 -------------
 
@@ -143,6 +160,7 @@ Undergraduate
 
 <hr />
 
+<a id="6"> </a>
 Website details
 ---------------
 
