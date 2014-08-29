@@ -19,6 +19,7 @@ focus on curation. (“We” is one tenure-track professor.)
   * [Macroeconometrics and financial econometrics](#3)
   * [Machine Learning topics](#4)
   * [Undergraduate](#5)
+  * [Programming](#7)
   * [Website details](#6)
 
 * Other pages on this website
@@ -69,7 +70,7 @@ Microeconometrics electives
 
 * Textbooks:
   * Kenneth Train’s *[Discrete Choice Methods with Simulation][c1]*, second
-    edition, 2009  
+    edition, 2009
     [Homepage][c1] — the electronic version is “made available for use
     by individuals for their personal research and study,” so we’re
     unable to provide a local copy (published by Cambridge University Press).
@@ -158,7 +159,41 @@ Undergraduate
 [g2]: http://www.ssc.upenn.edu/~fdiebold/Teaching104/Econometrics.pdf
 [g3]: /dl/diebold_econometrics.pdf
 
+<a id="7"> </a>
+Programming
+-----------
+* [R][h7]:
+  * [Project homepage][h7]
+  * CRAN's [*Econometrics* Task View][h2] (maintained by Achim Zeileis)
+  * CRAN's [*Finance* Task View][h3] (maintained by Dirk Eddelbuettel)
+  * CRAN's [*Statistics for the Social Sciences* Task View][h4] (maintained by John Fox)
+  * Hadley Wickham’s [*Advanced R*][h1]
+* [Python][h8]:
+  * [SciPy][h9] (scientific computing tools for Python)
+  * Thomas J. Sargent and John Stachurski's [*Quantitative Economics*][h5]
+  * Kevin Sheppard's [*Python for Econometrics*][h6]
+* [Julia][h10]:
+  * [Project homepage][h10]
+  * [JuliaStats][h11] (statistical computing resources)
+* Scientific computing, general resources
+  * Gentzkow and Shapiro's [*Code and Data for the Social Sciences: A
+    Practitioner's Guide*][h12] (March, 2014)
+  * [Software Carpentry][h11], part of Mozilla's Science Lab.
+
 <hr />
+
+[h1]: http://adv-r.had.co.nz/
+[h2]: http://cran.r-project.org/web/views/Econometrics.html
+[h3]: http://cran.r-project.org/web/views/Finance.html
+[h4]: http://cran.r-project.org/web/views/SocialSciences.html
+[h5]: http://quant-econ.net/
+[h6]: http://www.kevinsheppard.com/Python_for_Econometrics
+[h7]: http://www.r-project.org/
+[h8]: https://www.python.org/
+[h9]: http://scipy.org
+[h10]: http://julialang.org
+[h11]: http://software-carpentry.org
+[h12]: http://faculty.chicagobooth.edu/matthew.gentzkow/research/CodeAndData.pdf
 
 <a id="6"> </a>
 Website details
