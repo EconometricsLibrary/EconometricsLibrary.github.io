@@ -19,7 +19,7 @@ focus on curation. (“We” is one tenure-track professor.)
   * [Macroeconometrics and financial econometrics](#3)
   * [Machine Learning topics](#4)
   * [Undergraduate](#5)
-  * [Programming](#7)
+  * [Computing](#7)
   * [Website details](#6)
 
 * Other pages on this website
@@ -160,7 +160,7 @@ Undergraduate
 [g3]: /dl/diebold_econometrics.pdf
 
 <a id="7"> </a>
-Programming
+Computing
 -----------
 * [R][h7]:
   * [Project homepage][h7]
