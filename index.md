@@ -113,6 +113,8 @@ Macroeconometrics and financial econometrics
     econometrics*][d4] (2010 NBER Summer Institute)
   * Christiano and Fernandez-Villaverde’s [*Computational tools and
     macro applications*][d5] (2011 NBER Summer Institute)
+* Software:
+  * [Dynare][d7], version 4.4.3, released July 31, 2014; ([source code][d8])
 
 [d1]: http://ocw.mit.edu/courses/economics/14-384-time-series-analysis-fall-2013/
 [d2]: /dl/14-384-fall-2013.zip
@@ -120,6 +122,8 @@ Macroeconometrics and financial econometrics
 [d4]: http://www.nber.org/econometrics_minicourse_2010
 [d5]: http://www.nber.org/econometrics_minicourse_2011
 [d6]: http://faculty.chicagobooth.edu/john.cochrane/research/papers/time_series_book.pdf
+[d7]: http://www.dynare.org/
+[d8]: https://github.com/DynareTeam/dynare
 
 <a id="4"> </a>
 Machine Learning topics
@@ -172,6 +176,8 @@ Computing
   * [SciPy][h9] (scientific computing tools for Python)
   * Thomas J. Sargent and John Stachurski’s [*Quantitative Economics*][h5]
   * Kevin Sheppard’s [*Python for Econometrics*][h6]
+* [Matlab][h14]/[Octave][h13]:
+  * [Dynare][d7] (also listed under Macroeconometrics)
 * [Julia][h10]:
   * [Project homepage][h10]
   * [JuliaStats][h11] (statistical computing resources)
@@ -194,6 +200,8 @@ Computing
 [h10]: http://julialang.org
 [h11]: http://software-carpentry.org
 [h12]: http://faculty.chicagobooth.edu/matthew.gentzkow/research/CodeAndData.pdf
+[h13]: http://www.gnu.org/software/octave/
+[h14]: http://www.mathworks.com/
 
 <a id="6"> </a>
 Website details
