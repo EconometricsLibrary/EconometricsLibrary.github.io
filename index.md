@@ -164,21 +164,21 @@ Computing
 -----------
 * [R][h7]:
   * [Project homepage][h7]
-  * CRAN's [*Econometrics* Task View][h2] (maintained by Achim Zeileis)
-  * CRAN's [*Finance* Task View][h3] (maintained by Dirk Eddelbuettel)
-  * CRAN's [*Statistics for the Social Sciences* Task View][h4] (maintained by John Fox)
+  * CRAN’s [*Econometrics* Task View][h2] (maintained by Achim Zeileis)
+  * CRAN’s [*Finance* Task View][h3] (maintained by Dirk Eddelbuettel)
+  * CRAN’s [*Statistics for the Social Sciences* Task View][h4] (maintained by John Fox)
   * Hadley Wickham’s [*Advanced R*][h1]
 * [Python][h8]:
   * [SciPy][h9] (scientific computing tools for Python)
-  * Thomas J. Sargent and John Stachurski's [*Quantitative Economics*][h5]
-  * Kevin Sheppard's [*Python for Econometrics*][h6]
+  * Thomas J. Sargent and John Stachurski’s [*Quantitative Economics*][h5]
+  * Kevin Sheppard’s [*Python for Econometrics*][h6]
 * [Julia][h10]:
   * [Project homepage][h10]
   * [JuliaStats][h11] (statistical computing resources)
 * Scientific computing, general resources
-  * Gentzkow and Shapiro's [*Code and Data for the Social Sciences: A
-    Practitioner's Guide*][h12] (March, 2014)
-  * [Software Carpentry][h11], part of Mozilla's Science Lab.
+  * Gentzkow and Shapiro’s [*Code and Data for the Social Sciences: A
+    Practitioner’s Guide*][h12] (March, 2014)
+  * [Software Carpentry][h11], part of Mozilla’s Science Lab.
 
 <hr />
 
