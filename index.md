@@ -14,13 +14,13 @@ ourselves, time constraints have made that impractical, so we’ll
 focus on curation. (“We” is one tenure-track professor.)
 
 * Page contents
-  * [Resources for the PhD core classes](#1)
-  * [Microeconometrics electives](#2)
-  * [Macroeconometrics and financial econometrics](#3)
-  * [Machine Learning topics](#4)
-  * [Undergraduate](#5)
-  * [Computing](#7)
-  * [Website details](#6)
+  * [Resources for the PhD core classes](#core)
+  * [Microeconometrics electives](#micro)
+  * [Macroeconometrics and financial econometrics](#timeseries)
+  * [Machine Learning topics](#machinelearning)
+  * [Undergraduate](#undergrad)
+  * [Computing](#computing)
+  * [Website details](#website)
 
 * Other pages on this website
   * [About this website](/about)
@@ -28,7 +28,7 @@ focus on curation. (“We” is one tenure-track professor.)
 
 <hr />
 
-<a id="1"> </a>
+<a id="core"> </a>
 Resources for the PhD core classes
 ----------------------------------
 
@@ -64,7 +64,7 @@ Resources for the PhD core classes
 [b11]: https://github.com/EconometricsLibrary/core
 [b12]: https://github.com/EconometricsLibrary/core/releases
 
-<a id="2"> </a>
+<a id="micro"> </a>
 Microeconometrics electives
 ---------------------------
 
@@ -95,7 +95,7 @@ Microeconometrics electives
 [c5]: http://www.nber.org/econometrics_minicourse_2012
 [c6]: http://www.nber.org/econometrics_minicourse_2014
 
-<a id="3"> </a>
+<a id="timeseries"> </a>
 Macroeconometrics and financial econometrics
 --------------------------------------------
 
@@ -125,7 +125,7 @@ Macroeconometrics and financial econometrics
 [d7]: http://www.dynare.org/
 [d8]: https://github.com/DynareTeam/dynare
 
-<a id="4"> </a>
+<a id="machinelearning"> </a>
 Machine Learning topics
 -----------------------
 
@@ -148,7 +148,7 @@ Machine Learning topics
 [e4]: http://www-bcf.usc.edu/~gareth/ISL
 [e5]: "http://www-bcf.usc.edu/~gareth/ISL/ISLR Fourth Printing.pdf"
 
-<a id="5"> </a>
+<a id="undergrad"> </a>
 Undergraduate
 -------------
 
@@ -163,7 +163,7 @@ Undergraduate
 [g2]: http://www.ssc.upenn.edu/~fdiebold/Teaching104/Econometrics.pdf
 [g3]: /dl/diebold_econometrics.pdf
 
-<a id="7"> </a>
+<a id="computing"> </a>
 Computing
 -----------
 * [R][h7]:
@@ -203,7 +203,7 @@ Computing
 [h13]: http://www.gnu.org/software/octave/
 [h14]: http://www.mathworks.com/
 
-<a id="6"> </a>
+<a id="website"> </a>
 Website details
 ---------------
 
