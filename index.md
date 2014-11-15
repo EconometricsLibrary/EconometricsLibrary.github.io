@@ -23,7 +23,7 @@ focus on curation. (“We” is one tenure-track professor.)
   * [Website details](#website)
 
 * Other pages on this website
-  * [About this website](/about)
+  * [About this website](/README)
   * [Project news](/news) ([as RSS](/rss.xml))
 
 <hr />
