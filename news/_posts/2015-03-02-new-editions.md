@@ -21,6 +21,8 @@ a bit out of date.)
 
 Sorry for the delay!
 
+Permalink to email announcement: <http://permalink.gmane.org/gmane.science.economics.econometricslibrary/8>
+
 [1]: http://www.ssc.upenn.edu/~fdiebold/Teaching104/Econometrics.pdf
 [2]: http://www.ssc.upenn.edu/~fdiebold/Teaching221/Forecasting.pdf
 [3]: http://www.ssc.wisc.edu/~bhansen/econometrics/
