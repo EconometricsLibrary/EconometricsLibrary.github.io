@@ -26,6 +26,13 @@ focus on curation. (“We” is one tenure-track professor.)
   * [About this website](/README)
   * [Project news](/news) ([as RSS](/rss.xml))
 
+You can get updates by [Twitter][EconometricsLib], [email][], or
+[newsfeed][].
+
+[EconometricsLib]: https://twitter.com/EconometricsLib
+[email]: http://librelist.com/browser/econometricslibrary
+[Gmane]: http://dir.gmane.org/gmane.science.economics.econometricslibrary
+
 <hr />
 
 <a id="core"> </a>
@@ -36,7 +43,7 @@ Resources for the PhD core classes
   * Dan McFadden’s *[Statistical Tools for Economists][b1]*, 2001:
     [homepage][b1], [local copy][b2] and [data sets][b3] (may be printed and
     reproduced for individual use, but not for commercial purposes)
-  * Bruce Hansen’s *[Econometrics][b4]*, revised Jan. 3rd, 2014:
+  * Bruce Hansen’s *[Econometrics][b4]*, revised Jan. 16th, 2015:
     [homepage][b4], [local copy][b5] (may be printed and reproduced for
     individual or instructional use, but not for commercial purposes)
 * Textbooks under development:
@@ -146,7 +153,7 @@ Machine Learning topics
 [e2]: http://statweb.stanford.edu/~tibs/ElemStatLearn/
 [e3]: http://statweb.stanford.edu/~tibs/ElemStatLearn/printings/ESLII_print10.pdf
 [e4]: http://www-bcf.usc.edu/~gareth/ISL
-[e5]: "http://www-bcf.usc.edu/~gareth/ISL/ISLR Fourth Printing.pdf"
+[e5]: (http://www-bcf.usc.edu/~gareth/ISL/ISLR Fourth Printing.pdf)
 
 <a id="undergrad"> </a>
 Undergraduate
@@ -154,7 +161,11 @@ Undergraduate
 
 * Textbooks:
   * Frank Diebold’s [*Econometrics*][g1]: [homepage][g1], [pdf][g2], and
-    [local copy][g3] (Creative Commons [BY-NC-ND 4.0][NC4])
+    [local copy][g3] (February 17th, 2015 edition)
+    Creative Commons [BY-NC-ND 4.0][NC4])
+  * Frank Diebold’s [*Forecasting*][g1]: [homepage][g4], [pdf][g5], and
+    [local copy][g6] (December 21st, 2014 edition)
+    Creative Commons [BY-NC-ND 4.0][NC4])
   * James, Witten, Hastie, and Tibshirani’s [*An Introduction to
     Statistical Learning*][e4]: [homepage][e4], [pdf][e5] (corrected 4th
     printing.) (Repeated from above.)
@@ -162,10 +173,14 @@ Undergraduate
 [g1]: http://www.ssc.upenn.edu/~fdiebold/Textbooks.html
 [g2]: http://www.ssc.upenn.edu/~fdiebold/Teaching104/Econometrics.pdf
 [g3]: /dl/diebold_econometrics.pdf
+[g4]: http://www.ssc.upenn.edu/~fdiebold/Textbooks.html
+[g5]: http://www.ssc.upenn.edu/~fdiebold/Teaching221/Forecasting.pdf
+[g6]: /dl/diebold_forecasting.pdf
 
 <a id="computing"> </a>
 Computing
------------
+---------
+
 * [R][h7]:
   * [Project homepage][h7]
   * CRAN’s [*Econometrics* Task View][h2] (maintained by Achim Zeileis)
@@ -180,6 +195,7 @@ Computing
   * [Dynare][d7] (also listed under Macroeconometrics)
 * [Julia][h10]:
   * [Project homepage][h10]
+  * Thomas J. Sargent and John Stachurski’s [*Quantitative Economics*][h15]
   * [JuliaStats][h11] (statistical computing resources)
 * Scientific computing, general resources
   * Gentzkow and Shapiro’s [*Code and Data for the Social Sciences: A
@@ -192,7 +208,7 @@ Computing
 [h2]: http://cran.r-project.org/web/views/Econometrics.html
 [h3]: http://cran.r-project.org/web/views/Finance.html
 [h4]: http://cran.r-project.org/web/views/SocialSciences.html
-[h5]: http://quant-econ.net/
+[h5]: http://quant-econ.net/py/index.html
 [h6]: http://www.kevinsheppard.com/Python_for_Econometrics
 [h7]: http://www.r-project.org/
 [h8]: https://www.python.org/
@@ -202,6 +218,7 @@ Computing
 [h12]: http://faculty.chicagobooth.edu/matthew.gentzkow/research/CodeAndData.pdf
 [h13]: http://www.gnu.org/software/octave/
 [h14]: http://www.mathworks.com/
+[h15]: http://quant-econ.net/jl/index.html
 
 <a id="website"> </a>
 Website details
