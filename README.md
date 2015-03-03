@@ -1,4 +1,4 @@
-p---
+---
 title: About the Econometrics Free Library Project
 layout: default
 ---
@@ -60,4 +60,4 @@ This website is hosted on [GitHub Pages][] and maintained by
 [Gray Calhoun][] (email: <gcalhoun@iastate.edu>).
 
 [GitHub Pages]: http://pages.github.com/
-[Gray Calhoun]: http://www.econ.iastate.edu/~gcalhoun
+[Gray Calhoun]: http://gray.clhn.org
