@@ -22,16 +22,15 @@ focus on curation. (“We” is one tenure-track professor.)
   * [Computing](#computing)
   * [Website details](#website)
 
-* Other pages on this website
-  * [About this website](/README)
-  * [Project news](/news) ([as RSS](/rss.xml))
-
-You can get updates by [Twitter][EconometricsLib], [email][], or
-[newsfeed][].
+The [README](/README) page has more information. You can get updates
+by [Twitter][EconometricsLib], [email][] (archived on [Gmane][]), or
+our [blog][] ([RSS][]).
 
 [EconometricsLib]: https://twitter.com/EconometricsLib
 [email]: http://librelist.com/browser/econometricslibrary
 [Gmane]: http://dir.gmane.org/gmane.science.economics.econometricslibrary
+[blog]: /news
+[RSS]: /rss.xml
 
 <hr />
 
@@ -225,7 +224,8 @@ Website details
 ---------------
 
 This website is hosted on [GitHub Pages][] and maintained by
-[Gray Calhoun][] (email: <gcalhoun@iastate.edu>).
+[Gray Calhoun][] (email: <gcalhoun@iastate.edu>, twitter: [@grayclhn][]).
 
 [GitHub Pages]: http://pages.github.com/
-[Gray Calhoun]: http://www.econ.iastate.edu/~gcalhoun
+[Gray Calhoun]: http://gray.clhn.org
+[@grayclhn]: https://twitter.com/grayclhn
