@@ -45,12 +45,6 @@ Resources for the PhD core classes
   * Bruce Hansen’s *[Econometrics][b4]*, revised Jan. 16th, 2015:
     [homepage][b4], [local copy][b5] (may be printed and reproduced for
     individual or instructional use, but not for commercial purposes)
-* Textbooks under development:
-  * Gray Calhoun’s *[Core Econometrics][b10]*, version 0.7.2, released
-    June 23rd, 2014 [Home page with source code][b11], [pdf][b10], and
-    [release history][b12]. This project is hosted by the Econometrics
-    Free Library Project and licensed under the [GNU Free
-    Documentation License][FDL].
 * MIT OpenCourseWare:
   * Anna Mikusheva’s *[Statistical Methods in Economics][b6]* (Part I):
     [homepage][b6], [local copy][b7] ([Creative Commons BY-NC-SA][NC])
