@@ -36,14 +36,17 @@ our [blog][] ([RSS][]).
 Resources for the PhD core classes
 ----------------------------------
 
-* Textbooks:
+### Textbooks
+
   * Dan McFadden’s *[Statistical Tools for Economists][b1]*, 2001:
     [homepage][b1], [local copy][b2] and [data sets][b3] (may be printed and
     reproduced for individual use, but not for commercial purposes)
   * Bruce Hansen’s *[Econometrics][b4]*, revised Jan. 16th, 2015:
     [homepage][b4], [local copy][b5] (may be printed and reproduced for
     individual or instructional use, but not for commercial purposes)
-* MIT OpenCourseWare:
+
+### MIT OpenCourseWare
+
   * Anna Mikusheva’s *[Statistical Methods in Economics][b6]* (Part I):
     [homepage][b6], [local copy][b7] ([Creative Commons BY-NC-SA][NC])
   * Victor Chernozhukov’s *[Statistical Methods in Economics][b8]* (Part II):
@@ -66,17 +69,22 @@ Resources for the PhD core classes
 Microeconometrics electives
 ---------------------------
 
-* Textbooks:
+### Textbooks:
+
   * Kenneth Train’s *[Discrete Choice Methods with Simulation][c1]*, second
     edition, 2009
     [Homepage][c1] — the electronic version is “made available for use
     by individuals for their personal research and study,” so we’re
     unable to provide a local copy (published by Cambridge University Press).
-* Lecture notes:
+
+### Lecture notes:
+
   * Imbens and Wooldridge, *[What’s new in Econometrics][c3]* (2007
     NBER Summer Institute) — single pdf file of notes to accompany
     their recorded lectures (see below)
-* Recorded lectures:
+
+### Recorded lectures:
+
   * Imbens and Wooldridge, *[What’s new in Econometrics][c2]* (2007
     NBER Summer Institute) ([pdf][c3] of course notes)
   * List and Kremer, *[Using field experiments in economics][c4]*
@@ -97,14 +105,19 @@ Microeconometrics electives
 Macroeconometrics and financial econometrics
 --------------------------------------------
 
-* Textbooks:
+### Textbooks:
+
   * John Cochrane’s [*Time Series for Macroeconomics and
     Finance*][d6]: [pdf][d6], free of cost for noncommercial use, but no
     explicit license
-* MIT OpenCourseWare:
+
+### MIT OpenCourseWare:
+
   * Anna Mikusheva’s [*Time Series Analysis*][d1]:
     [homepage][d1], [local copy][d2] ([Creative Commons BY-NC-SA][NC])
-* Recorded lectures:
+
+### Recorded lectures:
+
   * Stock and Watson, [*What’s new in econometrics — time series*][d3] (2008
     NBER Summer Institute)
   * Ludvigson, Ait-Sahalia, Brandt, and Lo’s [*Financial
@@ -127,7 +140,8 @@ Macroeconometrics and financial econometrics
 Machine Learning topics
 -----------------------
 
-* Textbooks:
+### Textbooks:
+
   * Hastie, Tibshirani, and Friedman’s [*The elements of statistical
     learning*][e2] (2nd edition, last corrected in Jan 2013):
     [homepage][e2], [pdf][e3]
@@ -135,7 +149,9 @@ Machine Learning topics
     Statistical Learning*][e4] (corrected 4th printing):
     [homepage][e4], [pdf][e5] This book is aimed at advanced
     undergraduates and masters students
-* Recorded lectures:
+
+### Recorded lectures:
+
   * Chernozhukov, Gentzkow, Hansen, Shapiro, and Taddy’s
     [*Econometric methods for high-dimensional data*][e1]
     (2013 NBER Summer Institute)
@@ -150,7 +166,8 @@ Machine Learning topics
 Undergraduate
 -------------
 
-* Textbooks:
+### Textbooks:
+
   * Frank Diebold’s [*Econometrics*][g1]: [homepage][g1], [pdf][g2], and
     [local copy][g3] (February 17th, 2015 edition)
     Creative Commons [BY-NC-ND 4.0][NC4])
@@ -172,23 +189,32 @@ Undergraduate
 Computing
 ---------
 
-* [R][h7]:
+### [R][h7]:
+
   * [Project homepage][h7]
   * CRAN’s [*Econometrics* Task View][h2] (maintained by Achim Zeileis)
   * CRAN’s [*Finance* Task View][h3] (maintained by Dirk Eddelbuettel)
   * CRAN’s [*Statistics for the Social Sciences* Task View][h4] (maintained by John Fox)
   * Hadley Wickham’s [*Advanced R*][h1]
-* [Python][h8]:
+
+### [Python][h8]:
+
   * [SciPy][h9] (scientific computing tools for Python)
   * Thomas J. Sargent and John Stachurski’s [*Quantitative Economics*][h5]
   * Kevin Sheppard’s [*Python for Econometrics*][h6]
-* [Matlab][h14]/[Octave][h13]:
+
+### [Matlab][h14]/[Octave][h13]:
+
   * [Dynare][d7] (also listed under Macroeconometrics)
-* [Julia][h10]:
+
+### [Julia][h10]:
+
   * [Project homepage][h10]
   * Thomas J. Sargent and John Stachurski’s [*Quantitative Economics*][h15]
   * [JuliaStats][h11] (statistical computing resources)
-* Scientific computing, general resources
+
+### Scientific computing, general resources
+
   * Gentzkow and Shapiro’s [*Code and Data for the Social Sciences: A
     Practitioner’s Guide*][h12] (March, 2014)
   * [Software Carpentry][h11], part of Mozilla’s Science Lab.
