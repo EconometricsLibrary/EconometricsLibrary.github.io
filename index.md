@@ -128,7 +128,9 @@ Macroeconometrics and financial econometrics
     econometrics*][d4] (2010 NBER Summer Institute)
   * Christiano and Fernandez-Villaverde’s [*Computational tools and
     macro applications*][d5] (2011 NBER Summer Institute)
-* Software:
+
+### Software:
+
   * [Dynare][d7], version 4.4.3, released July 31, 2014; ([source code][d8])
 
 [d1]: http://ocw.mit.edu/courses/economics/14-384-time-series-analysis-fall-2013/
