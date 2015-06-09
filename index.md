@@ -65,6 +65,8 @@ Resources for the PhD core classes
 [b11]: https://github.com/EconometricsLibrary/core
 [b12]: https://github.com/EconometricsLibrary/core/releases
 
+<hr />
+
 <a id="micro"> </a>
 Microeconometrics electives
 ---------------------------
@@ -101,6 +103,8 @@ Microeconometrics electives
 [c5]: http://www.nber.org/econometrics_minicourse_2012
 [c6]: http://www.nber.org/econometrics_minicourse_2014
 
+<hr />
+
 <a id="timeseries"> </a>
 Macroeconometrics and financial econometrics
 --------------------------------------------
@@ -136,6 +140,8 @@ Macroeconometrics and financial econometrics
 [d7]: http://www.dynare.org/
 [d8]: https://github.com/DynareTeam/dynare
 
+<hr />
+
 <a id="machinelearning"> </a>
 Machine Learning topics
 -----------------------
@@ -162,6 +168,8 @@ Machine Learning topics
 [e4]: http://www-bcf.usc.edu/~gareth/ISL
 [e5]: (http://www-bcf.usc.edu/~gareth/ISL/ISLR Fourth Printing.pdf)
 
+<hr />
+
 <a id="undergrad"> </a>
 Undergraduate
 -------------
@@ -184,6 +192,8 @@ Undergraduate
 [g4]: http://www.ssc.upenn.edu/~fdiebold/Textbooks.html
 [g5]: http://www.ssc.upenn.edu/~fdiebold/Teaching221/Forecasting.pdf
 [g6]: /dl/diebold_forecasting.pdf
+
+<hr />
 
 <a id="computing"> </a>
 Computing
