@@ -9,18 +9,16 @@ layout: default
 
 The *Econometrics Free Library Project* aims to distribute free and
 open access econometrics texts suitable for graduate
-education. Although the original plan was to produce these texts
-ourselves, time constraints have made that impractical, so we’ll
-focus on curation. (“We” is one tenure-track professor.)
+education.
 
-* Page contents
-  * [Resources for the PhD core classes](#core)
-  * [Microeconometrics electives](#micro)
-  * [Macroeconometrics and financial econometrics](#timeseries)
-  * [Machine Learning topics](#machinelearning)
-  * [Undergraduate](#undergrad)
-  * [Computing](#computing)
-  * [Website details](#website)
+Page contents
+* [Resources for the PhD core classes](#core)
+* [Microeconometrics electives](#micro)
+* [Macroeconometrics and financial econometrics](#timeseries)
+* [Machine Learning topics](#machinelearning)
+* [Undergraduate](#undergrad)
+* [Computing](#computing)
+* [Website details](#website)
 
 The [README](/README) page has more information. You can get updates
 by [Twitter][EconometricsLib], [email][] (archived on [Gmane][]), or

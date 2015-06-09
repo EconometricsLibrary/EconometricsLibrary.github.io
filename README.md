@@ -10,9 +10,7 @@ layout: default
 
 The *Econometrics Free Library Project* aims to distribute free and
 open access econometrics texts suitable for graduate
-education. Although the original plan was to produce these texts
-ourselves, time constraints have made that impractical, so we’ll focus
-on curation. (“We” is one tenure-track professor.) To that goal, this
+education. To that goal, this
 website has links to free econometrics resources, with a preference
 for explicitly open-access resources where possible.
 
@@ -34,8 +32,7 @@ their mailing list service. [List archives are available online as
 well](http://librelist.com/browser/econometricslibrary/).
 
 Please subscribe to the mailing list if you'd like to contribute to
-this project. I plan to eventually add an IRC channel, but the project
-isn't large enough to justify it yet.
+this project.
 
 It’s worth emphasizing: we want to respect every author’s
 copyright. Where possible, we’d like to host a local copy of all of
