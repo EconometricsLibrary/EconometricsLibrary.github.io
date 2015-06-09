@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "EFLP News"
+title: "Project news"
 ---
 
 {% for doc in site.categories.news %}

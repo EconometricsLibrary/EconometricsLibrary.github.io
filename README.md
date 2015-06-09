@@ -47,14 +47,3 @@ that the author of that resource endorses this project.
 [a2]: http://librelist.com/browser/econometricslibrary
 [a3]: https://github.com/EconometricsLibrary
 [a4]: http://dir.gmane.org/gmane.science.economics.econometricslibrary
-
-<hr />
-
-Website details
----------------
-
-This website is hosted on [GitHub Pages][] and maintained by
-[Gray Calhoun][] (email: <gcalhoun@iastate.edu>).
-
-[GitHub Pages]: http://pages.github.com/
-[Gray Calhoun]: http://gray.clhn.org

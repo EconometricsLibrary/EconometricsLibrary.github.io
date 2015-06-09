@@ -1,5 +1,5 @@
 ---
-title: Econometrics Free Library Project
+title: Free and open access econometrics textbooks
 layout: default
 ---
 
@@ -11,14 +11,14 @@ The *Econometrics Free Library Project* aims to distribute free and
 open access econometrics texts suitable for graduate
 education.
 
-Page contents
+### Page contents
+
 * [Resources for the PhD core classes](#core)
 * [Microeconometrics electives](#micro)
 * [Macroeconometrics and financial econometrics](#timeseries)
 * [Machine Learning topics](#machinelearning)
 * [Undergraduate](#undergrad)
 * [Computing](#computing)
-* [Website details](#website)
 
 The [README](/README) page has more information. You can get updates
 by [Twitter][EconometricsLib], [email][] (archived on [Gmane][]), or
@@ -193,8 +193,6 @@ Computing
     Practitioner’s Guide*][h12] (March, 2014)
   * [Software Carpentry][h11], part of Mozilla’s Science Lab.
 
-<hr />
-
 [h1]: http://adv-r.had.co.nz/
 [h2]: http://cran.r-project.org/web/views/Econometrics.html
 [h3]: http://cran.r-project.org/web/views/Finance.html
@@ -210,14 +208,3 @@ Computing
 [h13]: http://www.gnu.org/software/octave/
 [h14]: http://www.mathworks.com/
 [h15]: http://quant-econ.net/jl/index.html
-
-<a id="website"> </a>
-Website details
----------------
-
-This website is hosted on [GitHub Pages][] and maintained by
-[Gray Calhoun][] (email: <gcalhoun@iastate.edu>, twitter: [@grayclhn][]).
-
-[GitHub Pages]: http://pages.github.com/
-[Gray Calhoun]: http://gray.clhn.org
-[@grayclhn]: https://twitter.com/grayclhn
